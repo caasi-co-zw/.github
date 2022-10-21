@@ -8,4 +8,4 @@
     <a href="https://twitter.com/caasi_zw/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="caasi-twitter" height="30" width="40" /></a>
 </p>
 <h1 align="center">Welcome to Caasi Technologies</h1>
-<p>We do a lot of programming and are quite familiar with <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>PHP</strong> & <strong>VB</strong>.</p>
+<p align="center">We do a lot of programming and are quite familiar with <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>PHP</strong> & <strong>VB</strong>.</p>
