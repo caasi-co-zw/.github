@@ -2,7 +2,8 @@
 
 <p align="center"></p>
 
-<hr/><br>
+<hr height="1"/>
+
 <div id="badges" align="center">
   <a href="//wa.me/+263783243738">
     <img src="https://img.shields.io/badge/Whatsapp-zw?style=for-the-badge&logo=whatsApp&logoColor=white" alt="LinkedIn Badge"/>
